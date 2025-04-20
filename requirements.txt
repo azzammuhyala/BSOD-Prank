@@ -1,4 +1,4 @@
-txtwrap>=2.2.0
+txtwrap>=2.2.0,<=3.0.1
 pycaw>=20240210
 qrcode>=7.4.2
 pygame>=2.5.0 # or pygame-ce>=2.5.0
